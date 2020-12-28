@@ -20,7 +20,8 @@ class merge_sort_java
 	static void printArray(int arr[])
 	{
 		for(int i=0;i<arr.length;i++)
-			{ System.out.print(arr[i] + " ");}
+			{ 
+				System.out.print(arr[i] + " ");}
 	}
 
 	static void merge(int arr[])
@@ -29,7 +30,7 @@ class merge_sort_java
 		int  r = arr.length-1;
 		int m = (l+r)/2;
 
-		
+
 	}
 }
 
