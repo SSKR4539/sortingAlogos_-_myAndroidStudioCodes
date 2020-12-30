@@ -3,3 +3,7 @@ Java and Python programs for sorting algorithms
 
 Contributor:
 Sumanthkumar S
+
+#Source codes file
+1. selection sort
+2. merge sort
